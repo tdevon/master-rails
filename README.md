@@ -3,6 +3,9 @@
 
 ## Courses, Resources and Sites
 
+### TheOdinProject
+<a href="https://theodinproject.com">theodinproject.com</a>
+
 ### Learn Enough Rails / Michael Hartl
 <a href="https://railstutorial.org/book">railstutorial.org</a>
 
